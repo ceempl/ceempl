@@ -1,0 +1,26 @@
+{
+  "name": "ceempl",
+  "version": "0.0.7",
+  "description": "A CSS framework for UI development",
+  "main": "dist/ceempl.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceempl/ceempl.git"
+  },
+  "keywords": [
+    "css",
+    "framework",
+    "css",
+    "framework",
+    "ui"
+  ],
+  "author": "Mohammadreza Ziadzadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceempl/ceempl/issues"
+  },
+  "homepage": "https://github.com/ceempl/ceempl#readme"
+}
