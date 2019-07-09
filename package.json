@@ -13,14 +13,12 @@
   "keywords": [
     "css",
     "framework",
-    "css",
-    "framework",
     "ui"
   ],
   "author": "Mohammadreza Ziadzadeh",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ceempl/ceempl/issues"
   },
-  "homepage": "https://github.com/ceempl/ceempl#readme"
+  "homepage": "https://ceempl.com"
 }
