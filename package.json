@@ -1,7 +1,7 @@
 {
   "name": "ceempl",
   "version": "0.0.9",
-  "description": "A CSS framework for UI development",
+  "description": "A simple framework for UI development",
   "main": "dist/ceempl.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
