@@ -1,6 +1,6 @@
 {
   "name": "ceempl",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A simple framework for UI development",
   "main": "dist/ceempl.css",
   "scripts": {
@@ -25,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/ceempl/ceempl/issues"
   },
-  "homepage": "https://github.com/ceempl/ceempl" 
+  "homepage": "https://github.com/ceempl/ceempl"
 }
