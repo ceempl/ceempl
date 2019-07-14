@@ -6,6 +6,8 @@
   <p>A simple framework for UI development.</p>
 </div>
 
+
+
 ## Setup
 First, you should install <b>Ceempl</b>.
 
@@ -13,11 +15,14 @@ First, you should install <b>Ceempl</b>.
 npm i ceempl
 ```
 
-And put these on your main script:
+ 
+And put this line on your main script:
 
 ```javascript
 import 'ceempl'
 ```
+
+
 
 ## Docs
 
