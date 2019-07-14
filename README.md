@@ -6,7 +6,8 @@
   <p>A simple framework for UI development.</p>
 </div>
 
-
+<br>
+<br>
 
 ## Setup
 First, you should install <b>Ceempl</b>.
@@ -14,7 +15,6 @@ First, you should install <b>Ceempl</b>.
 ```terminal
 npm i ceempl
 ```
-
 <br>
  
 And put this on your main script:
@@ -26,7 +26,6 @@ import 'ceempl'
 <br>
 <br>
 <br>
-
 
 ## Docs
 
