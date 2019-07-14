@@ -15,6 +15,7 @@ First, you should install <b>Ceempl</b>.
 npm i ceempl
 ```
 
+<br>
  
 And put this on your main script:
 
@@ -22,6 +23,9 @@ And put this on your main script:
 import 'ceempl'
 ```
 
+<br>
+<br>
+<br>
 
 
 ## Docs
