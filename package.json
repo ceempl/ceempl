@@ -13,12 +13,17 @@
   "keywords": [
     "css",
     "framework",
-    "ui"
+    "ui",
+    "fast",
+    "responsive",
+    "minimal",
+    "simple",
+    "lightweight"
   ],
   "author": "Mohammadreza Ziadzadeh",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ceempl/ceempl/issues"
   },
-  "homepage": "https://ceempl.com"
+  "homepage": "https://github.com/ceempl/ceempl"
 }
