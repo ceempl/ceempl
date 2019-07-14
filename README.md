@@ -16,7 +16,7 @@ npm i ceempl
 ```
 
  
-And put this line on your main script:
+And put this on your main script:
 
 ```javascript
 import 'ceempl'
