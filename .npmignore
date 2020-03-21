@@ -1,4 +1,5 @@
 .gitignore
+.github
 index.html
 dist/ceempl.scss
 dist/ceempl.css.map
