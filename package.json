@@ -1,11 +1,9 @@
 {
   "name": "ceempl",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "A simple framework for UI development",
   "main": "dist/ceempl.css",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ceempl/ceempl.git"
