@@ -10,6 +10,9 @@
   <a href="https://www.npmjs.com/package/ceempl" target="_blank">
     <img src="https://img.shields.io/npm/dt/ceempl" alt="download"></img>
   </a>
+  <a href="https://www.npmjs.com/package/ceempl" target="_blank">
+    <img src="https://img.shields.io/npm/v/ceempl" alt="version"></img>
+  </a>
   <a href="https://github.com/ceempl/ceempl/blob/master/LICENSE" target="_blank">
     <img src="https://img.shields.io/npm/l/ceempl" alt="license"></img>
   </a>
