@@ -4,8 +4,11 @@
   </a>
   <h1><b> Ceempl </b></h1>
   <p>A simple framework for UI development.</p>
-  <a href="https://bundlephobia.com/result?p=ceempl" traget="_blank">
+  <a href="https://bundlephobia.com/result?p=ceempl" target="_blank">
     <img src="https://img.shields.io/bundlephobia/minzip/ceempl" alt="size"></img>
+  </a>
+  <a href="https://www.npmjs.com/package/ceempl" target="_blank">
+    <img src="https://img.shields.io/npm/dt/ceempl" alt="download"></img>
   </a>
 </div>
 
