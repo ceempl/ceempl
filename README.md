@@ -4,26 +4,28 @@
   </a>
   <h1><b> Ceempl </b></h1>
   <p>A simple framework for UI development.</p>
+  ![size](https://img.shields.io/bundlephobia/minzip/ceempl)
 </div>
 
 <br>
 <br>
 
 ## Setup
+
 First, you should install <b>Ceempl</b>.
 
 ```terminal
 npm i ceempl
 ```
+
 <br>
  
 And put this on your main script:
 
 ```javascript
-import 'ceempl'
+import "ceempl";
 ```
 
-<br>
 <br>
 <br>
 
@@ -32,4 +34,3 @@ import 'ceempl'
 Finally you can read full documention here:
 
 [Docs](http://ceempl.com)
-
