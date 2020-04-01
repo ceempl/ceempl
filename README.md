@@ -4,7 +4,7 @@
   </a>
   <h1><b> Ceempl </b></h1>
   <p>A simple framework for UI development.</p>
-  ![size](https://img.shields.io/bundlephobia/minzip/ceempl)
+  <img src="https://img.shields.io/bundlephobia/minzip/ceempl"></img>
 </div>
 
 <br>
