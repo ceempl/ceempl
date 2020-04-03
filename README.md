@@ -43,9 +43,7 @@ import "ceempl";
 
 ## Docs
 
-Finally you can read full documention here:
-
-[Ceempl Docs](http://ceempl.com)
+Finally you can read full documention here: [Ceempl Docs](http://ceempl.com)
 
 ## Contributing
 
