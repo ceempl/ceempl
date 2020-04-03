@@ -46,3 +46,7 @@ import "ceempl";
 Finally you can read full documention here:
 
 [Ceempl Docs](http://ceempl.com)
+
+## Contributing
+
+See [CONTRIBUTING.md](http://ceempl.com)
