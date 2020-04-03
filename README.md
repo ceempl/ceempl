@@ -33,16 +33,13 @@ Install the `ceempl` package using NPM:
 npm i ceempl
 ```
 
-<br>
- 
-And put this on your main script:
+### 2. Usage
+
+Import `ceempl` by adding this line to your app’s entry point, usually `index.js` or `app.js`:
 
 ```javascript
 import "ceempl";
 ```
-
-<br>
-<br>
 
 ## Docs
 
