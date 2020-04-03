@@ -45,4 +45,4 @@ import "ceempl";
 
 Finally you can read full documention here:
 
-[Docs](http://ceempl.com)
+[Ceempl Docs](http://ceempl.com)
