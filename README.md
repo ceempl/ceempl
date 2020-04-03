@@ -21,11 +21,11 @@
 <br>
 <br>
 
-## Setup
+### 1. Setup
 
-First, you should install <b>Ceempl</b>.
+Install the `ceempl` package using NPM:
 
-```terminal
+```sh
 npm i ceempl
 ```
 
