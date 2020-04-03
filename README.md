@@ -21,6 +21,10 @@
 <br>
 <br>
 
+## Getting started
+
+To be able to access the docs, you'll need to open [ceempl.com](https://ceempl.com).
+
 ### 1. Setup
 
 Install the `ceempl` package using NPM:
