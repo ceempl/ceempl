@@ -49,4 +49,4 @@ Finally you can read full documention here:
 
 ## Contributing
 
-See [CONTRIBUTING.md](http://ceempl.com)
+See [CONTRIBUTING.md](https://github.com/ceempl/ceempl/blob/master/CONTRIBUTING.md)
