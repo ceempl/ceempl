@@ -3,7 +3,7 @@
     <img src="https://i.ibb.co/Kx20swD/ceempl.png" alt="ceempl" height="150" />
   </a>
   <h1><b> Ceempl </b></h1>
-  <p>A simple framework for UI development.</p>
+  <p>A simple css framework for UI development.</p>
   <a href="https://bundlephobia.com/result?p=ceempl" target="_blank">
     <img src="https://img.shields.io/bundlephobia/minzip/ceempl" alt="size"></img>
   </a>
