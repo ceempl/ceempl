@@ -1,7 +1,7 @@
 {
   "name": "ceempl",
   "version": "0.1.9",
-  "description": "A simple framework for UI development",
+  "description": "A simple css framework for UI development",
   "main": "dist/ceempl.css",
   "scripts": {},
   "repository": {
