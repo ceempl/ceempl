@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ceempl/ceempl.git"
+    "url": "git+https://github.com/themzed/ceempl.git"
   },
   "keywords": [
     "css",
@@ -21,7 +21,7 @@
   "author": "Mohammadreza Ziadzadeh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ceempl/ceempl/issues"
+    "url": "https://github.com/themzed/ceempl/issues"
   },
   "homepage": "https://ceempl.com"
 }
